@@ -1,7 +1,7 @@
 # Data Analyst
 # Education
-Digital Transformation, MBA
-Econimics, BA
+- Digital Transformation, MBA
+- Economics, BA
 
 # Work Experience
 ## People and Culture Analyst @ Fawry MSME
