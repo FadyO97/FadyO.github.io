@@ -1,7 +1,7 @@
 # Data Analyst
 # Education
-- Digital Transformation, MBA
-- Economics, BA
+- MBA, Digital Transformation | Ecole Supérieure Libre des Sciences Commerciales Appliquées
+- B.A., Economics | London South Bank University
 
 # Work Experience
 ### People and Culture Analyst @ Fawry MSME
