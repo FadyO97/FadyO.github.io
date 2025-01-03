@@ -1,5 +1,6 @@
 # Data Analyst
-# Technical Skills: SQL, Power BI, Excel, ZOHO Applications
+### Technical Skills: SQL, Power BI, Excel, ZOHO Applications
+
 # Education
 - MBA, Digital Transformation | Ecole Supérieure Libre des Sciences Commerciales Appliquées (_May 2025_)
 - B.A., Economics | London South Bank University (_May 2019_)
