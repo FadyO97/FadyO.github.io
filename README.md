@@ -9,7 +9,7 @@
 ### People and Culture Analyst @ Fawry MSME
 - People and Culture Department Power BI Dashboard
 -  Exit Interview Questionnaire Digitalization
--  
+
 ### Data Analyst @ Abgad Concumer Finance
 
 ### Sales Analyst @ Sun Pharmaceutical Industries
