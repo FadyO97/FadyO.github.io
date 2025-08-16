@@ -15,5 +15,4 @@
 ### Sales Analyst @ Sun Pharmaceutical Industries
 
 # Projects
-[Projects].(Data-Analytics-Portfolio)
 
