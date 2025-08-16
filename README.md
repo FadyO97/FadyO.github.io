@@ -20,5 +20,5 @@
 - Produced market intelligence by compiling field and financial data, delivering insights on product positioning and competitive threats to management.
 
 ## Related Projects
-- [HR Analytics Dashboard](https://github.com/FadyO97/Data-Analytics-Portfolio/tree/main/Data-Analytics-Portfolio/PowerBI/Project2_SalesFunnelReport2024)
+-[📂 Data Analysis Portfolio] (https://github.com/FadyO97/Data-Analytics-Portfolio)
 
