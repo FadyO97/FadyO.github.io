@@ -15,5 +15,5 @@
 ### Sales Analyst @ Sun Pharmaceutical Industries
 
 # Projects
-Human Resources Department Power BI Dashboard
+[Projects].(README.md)
 
