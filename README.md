@@ -19,5 +19,6 @@
 - Developed and maintained recurring sales reports and KPIs, analyzing regional results and stock movement to track performance.
 - Produced market intelligence by compiling field and financial data, delivering insights on product positioning and competitive threats to management.
 
-# Projects
+## Related Projects
+- [HR Analytics Dashboard](https://github.com/FadyO97/Data-Analytics-Portfolio/tree/main/Data-Analytics-Portfolio/PowerBI/Project2_SalesFunnelReport2024)
 
