@@ -20,5 +20,5 @@
 - Produced market intelligence by compiling field and financial data, delivering insights on product positioning and competitive threats to management.
 
 ## Related Projects
--[📂 Data Analysis Portfolio] (https://github.com/FadyO97/Data-Analytics-Portfolio)
+-[📂 Data Analysis Portfolio](https://github.com/FadyO97/Data-Analytics-Portfolio)
 
